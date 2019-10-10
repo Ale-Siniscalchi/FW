@@ -1,0 +1,14 @@
+C:\Users\Ale.Siniscalchi\Desktop\FwUpdate\FWUpdate\FWUpdate\bin\Debug\FWUpdate.exe.config
+C:\Users\Ale.Siniscalchi\Desktop\FwUpdate\FWUpdate\FWUpdate\bin\Debug\FWUpdate.exe
+C:\Users\Ale.Siniscalchi\Desktop\FwUpdate\FWUpdate\FWUpdate\bin\Debug\FWUpdate.pdb
+C:\Users\Ale.Siniscalchi\Desktop\FwUpdate\FWUpdate\FWUpdate\obj\Debug\FWUpdate.csprojAssemblyReference.cache
+C:\Users\Ale.Siniscalchi\Desktop\FwUpdate\FWUpdate\FWUpdate\obj\Debug\FWUpdate.Form1.resources
+C:\Users\Ale.Siniscalchi\Desktop\FwUpdate\FWUpdate\FWUpdate\obj\Debug\FWUpdate.Properties.Resources.resources
+C:\Users\Ale.Siniscalchi\Desktop\FwUpdate\FWUpdate\FWUpdate\obj\Debug\FWUpdate.csproj.GenerateResource.cache
+C:\Users\Ale.Siniscalchi\Desktop\FwUpdate\FWUpdate\FWUpdate\obj\Debug\FWUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Ale.Siniscalchi\Desktop\FwUpdate\FWUpdate\FWUpdate\obj\Debug\FWUpdate.exe
+C:\Users\Ale.Siniscalchi\Desktop\FwUpdate\FWUpdate\FWUpdate\obj\Debug\FWUpdate.pdb
+C:\Users\Ale.Siniscalchi\Desktop\FwUpdate\FWUpdate\FWUpdate\bin\Debug\FWUpdate.exe.manifest
+C:\Users\Ale.Siniscalchi\Desktop\FwUpdate\FWUpdate\FWUpdate\bin\Debug\FWUpdate.application
+C:\Users\Ale.Siniscalchi\Desktop\FwUpdate\FWUpdate\FWUpdate\obj\Debug\FWUpdate.exe.manifest
+C:\Users\Ale.Siniscalchi\Desktop\FwUpdate\FWUpdate\FWUpdate\obj\Debug\FWUpdate.application
